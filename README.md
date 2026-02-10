@@ -5,6 +5,7 @@ MEMBRES DU GROUPE
 2. NGOIE SANKI Chancelle
 3. PAMBA KALOLO Ruth
 4. FEMB TSHILEMB Ariel
+5. KAZADI BANZA Donnel
 
 # Système de pointage et production - Application console Java
 
