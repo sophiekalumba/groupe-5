@@ -6,6 +6,7 @@ MEMBRES DU GROUPE
 3. PAMBA KALOLO Ruth
 4. FEMB TSHILEMB Ariel
 5. KAZADI BANZA Donnel
+6. SOPHIE KALUMBA Sophie
 
 # Système de pointage et production - Application console Java
 
