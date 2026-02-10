@@ -7,6 +7,7 @@ MEMBRES DU GROUPE
 4. FEMB TSHILEMB Ariel
 5. KAZADI BANZA Donnel
 6. SOPHIE KALUMBA Sophie
+7. NGOY MUKENG Ireness
 
 # Système de pointage et production - Application console Java
 
