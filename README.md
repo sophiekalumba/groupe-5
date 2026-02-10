@@ -1,3 +1,8 @@
+MEMBRES DU GROUPE
+================
+
+1. KATA MUSAMBU Delphine
+
 # Système de pointage et production - Application console Java
 
 ## 📋 Contexte
