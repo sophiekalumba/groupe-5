@@ -2,6 +2,7 @@ MEMBRES DU GROUPE
 ================
 
 1. KATA MUSAMBU Delphine
+2. NGOIE SANKI Chancelle
 
 # Système de pointage et production - Application console Java
 
